@@ -1,0 +1,15 @@
+#cabecera{width:1333px; height:200px; background-image: url("Imagenes/1431706658.jpg");background-position:center;background-repeat:no-repeat;background-size:cover}
+
+#izq{width:661px; height:700px; background:#0B0B3B;margin-top:5px;float:left;margin-right:5px}
+
+#der{width:661px; height:700px; background:#0B0B3B;margin-top:5px;float:right}
+
+#izq p{color:white;font-size:15px;font-family:arial,black}
+
+#izq a{color:white;font-size:20px;text-decoration:none}
+
+#izq a:hover{color:yellow}
+
+#der p{color:white;font-size:25px;font-family:arial,black}
+
+#der .pre{color:yellow}

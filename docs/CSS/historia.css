@@ -1,0 +1,25 @@
+#cabecera{width:1333px; height:100px; background:#FFFF00; margin-bottom:15px}
+
+#menu1 li{list-style:none;margin:2px; margin-left:50px; margin-right:15px;}
+
+#menu1 li a {text-align:right;font-size:20px;color:#FFFF00;font-family:arial black; text-decoration:none;float:left; margin-left:20px}
+
+#menu1 li a:hover{color:#58FAF4}
+
+.cuerpo{overflow:scroll;width:1333px; height:800px; background-image: url("Imagenes/descarga.png");background-repeat: no-repeat; background-position:center}
+
+.creacion{overflow:scroll;background-image: url("Imagenes/255578A8F.jpg");width:1333px; height:800px;background-repeat: no-repeat;background-size:cover; background-position:center}
+
+.creadores{overflow:scroll;background-image: url("Imagenes/historiabocajuniors2.jpg");width:1333px; height:800px;background-repeat: no-repeat;background-size:cover; background-position:center}
+
+.camp{overflow:scroll;background-image: url("Imagenes/bocacampeon1931-630x410.jpg");width:1333px; height:800px;background-repeat: no-repeat;background-size:cover; background-position:center}
+
+.worl{overflow:scroll;background-image: url("Imagenes/54f8ae533f26f_1200x0.jpg");width:1333px; height:800px;background-repeat: no-repeat;background-size:cover; background-position:center}
+
+.cri{overflow:scroll;background-image: url("Imagenes/images.jfif");width:1333px; height:800px;background-repeat: no-repeat;background-size:100% 100%; background-position:center}
+
+.creacion	p{ color:#00FFBF ;font-size:25px; font-family:arial}
+
+p{ color:#FFFFFF ;font-size:25px}
+
+#enlax {color:#0B0B61; text-decoration:none;padding-left:600px;padding-top:240px ;font-family:comic}

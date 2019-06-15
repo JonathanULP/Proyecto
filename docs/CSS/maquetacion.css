@@ -1,0 +1,24 @@
+#cabecera{margin-bottom:2px;background-image: url("Imagenes/7qinShj-min.jpg");background-repeat: no-repeat; background-position:center;background-size:cover;height:250px}
+
+#columna1{background:#0B0B61;margin-right:5px;width:428px; height:500px;float:left}
+
+#columna2{background-image: url("Imagenes/bombonera-mini.jpg"); background-position:center; background-size:cover; height:500px; width:1333px;float:left;margin-bottom:10px}
+
+#mn{background:#0B0B61;height:50px;margin-bottom:10px}
+
+#pie {overflow:scroll;background:#0B0B61; height:200px;clear:both}
+
+#pie a{color:yellow; text-decoration:none; font-family:Arial Black; font-size:20px}
+
+#pie h1{color:yellow; font-family:Arial Black; }
+
+#pie a:hover{color:white}
+
+#menu1 li{list-style:none;margin:2px; margin-left:50px;float:left; margin-right:15px;}
+
+#menu1 li a {text-align:right;font-size:30px;color:#FFFFFF;font-family:arial black; text-decoration:none}
+
+#menu1 li a:hover{color:#FFFF00}
+
+#caja{color:#000000; background:#FFFF00}
+

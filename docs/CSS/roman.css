@@ -1,0 +1,17 @@
+.riquelme{height:600px;width:1333px;background-image: url("Imagenes/1501665745_717875_1501665883_noticia_normal.jpg");background-repeat: no-repeat;background-size:cover; background-position:center}
+
+.palermo{height:600px;width:1333px;background-image: url("Imagenes/Martin_Palermo_21-min.jpg");background-repeat: no-repeat;background-size:cover; background-position:center}
+
+.palacio{height:600px;width:1333px;background-image: url("Imagenes/n_boca_juniors_los_jugadores-1364471.jpg");background-repeat: no-repeat;background-size:cover; background-position:center}
+
+.default{height:600px;width:1333px;background-image: url("Imagenes/boca-juniors-legends-gfx_98fr5nsrvtzp1a2zdfmliau3r.jpg");background-repeat: no-repeat;background-size:cover; background-position:center}
+
+.tevez{height:600px;width:1333px;background-image: url("Imagenes/maxresdefault.jpg");background-repeat: no-repeat;background-size:cover; background-position:center}
+
+#pie{width:1333px;height:100px;background:#0B0B61;margin-top:10px}
+
+#pie a{color:#FFFFFF; text-decoration:none;padding-left:600px;padding-top:240px}
+
+#datos{width:233px;height:600px;background:#0B0B61;margin-right:10px;float:left;opacity:0.8}
+
+#datos p{color:white}
